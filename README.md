@@ -8,11 +8,17 @@ Para ello, se ha obtenido la información de precipitación y temperaturas media
 Los campos almacenados en el dataset generado son los siguientes:
 
 •	ciudad: Ciudad en la que se han recogido los datos de meteorología.
+
 •	anio: Variable con el formato YYYY-MM que indica el mes al que corresponde la información. Donde los meses del 1 al 12 corresponden con la información mensual, mientras que el mes 13 corresponde con la información anual.
+
 •	temperaturaMediaMensual: La temperatura media que hizo en la ciudad en el mes correspondiente.
+
 •	temperaturaMediaMensual_maximas: La temperatura media de las máximas del mes.
+
 •	temperaturaMediaMensual_minimas: Temperatura media de las mínimas del mes.
+
 •	numDiasLLuvia: Número de días que ha llovido en el mes correspondiente.
+
 •	PrecipitaciónTotalMensual: Precipitación total en el mes correspondiente, medida en mm.
 
 Para la recopilación de datos se han utilizado las siguientes librerias:
