@@ -22,12 +22,19 @@ Los campos almacenados en el dataset generado son los siguientes:
 •	PrecipitaciónTotalMensual: Precipitación total en el mes correspondiente, medida en mm.
 
 Para la recopilación de datos se han utilizado las siguientes librerias:
+
 requests
+
 selenium
+
 json
+
 time
 
 Para el tratamiento y visualización de los mismos se han utilizado:
+
 pandas
+
 numpy
+
 matplotlib.pyplot
