@@ -31,6 +31,7 @@ json
 
 time
 
+
 Para el tratamiento y visualización de los mismos se han utilizado:
 
 pandas
